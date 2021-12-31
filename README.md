@@ -21,7 +21,7 @@
 <div align="center">
   <br><br>
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=&theme=dracula&show_icons=true" alt="Aman's Github Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman2000raj&theme=dracula&show_icons=true" alt="Aman's Github Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman2000raj&theme=dracula&show_icons=true" /><br>
   <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman2000raj&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
 
