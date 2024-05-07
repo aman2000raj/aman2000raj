@@ -89,8 +89,7 @@
 
   ## Just tryingg to be consistent here, so that the snake would get more to eat 🐍 </h2>
 
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aman2000raj/aman2000raj/output/github-contribution-grid-snake.svg" />
-  <br>
+![Aman's snake gif](https://raw.githubusercontent.com/aman2000raj/aman2000raj/output/github-contribution-grid-snake.svg)  <br>
 
   [![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=aman2000raj&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
